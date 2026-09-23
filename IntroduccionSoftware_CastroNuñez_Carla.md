@@ -9,3 +9,5 @@ el cual el ordenador puede ejecutar directamente
 ## Etapas del desarrollo del software
 * _Análisis, diseño, implementación, pruebas y mantenimiento_ *
 ![imagen software](https://i.etsystatic.com/50316068/r/il/740320/6634346588/il_1080xN.6634346588_arhg.jpg)
+
+[VER REPOSITORIO EN GITHUB](https://github.com/carliiix-19/1DAMP_CarstroNu-ez_Carla-/blob/main/README.md)
